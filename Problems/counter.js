@@ -25,3 +25,24 @@ decreaseButton.addEventListener("click",()=>{
 container.addEventListener("mouseover",()=>{
    console.log("bubble")
 })
+
+//function
+function makeCounter(initialValue = 0) {
+    // Your implementation
+    let count = initialValue
+    const counterObj = {
+        increment: () => {
+            count++
+            return count;
+        },
+        decrement: () => {
+            count--
+            return count
+        },
+        reset: () => {
+            count = initialValue
+            return count;
+        }
+    }
+ return counterObj
+}
