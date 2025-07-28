@@ -4,3 +4,11 @@
 - Number guessing game
 - random number generator
 - temperature convertor
+- capitalize first letter of each word
+- random password generator based on condtns
+- removed Duplicates in an array
+- Shuffle an array
+- checked for valid anagrams
+- checked for valid palindrome
+- flattened a nested array
+- chunk array
