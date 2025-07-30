@@ -12,3 +12,5 @@
 - checked for valid palindrome
 - flattened a nested array
 - chunk array
+- once function
+- reverse each word but maintain the order of words
