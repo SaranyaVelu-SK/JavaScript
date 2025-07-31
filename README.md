@@ -14,3 +14,6 @@
 - chunk array
 - once function
 - reverse each word but maintain the order of words
+- count vowels in a string
+- group the array of objects by the key
+- implemented curry function
