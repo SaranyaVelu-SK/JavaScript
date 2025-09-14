@@ -17,3 +17,4 @@
 - count vowels in a string
 - group the array of objects by the key
 - implemented curry function
+- generate an array of fibonacci series
